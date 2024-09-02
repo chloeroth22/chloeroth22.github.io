@@ -1,5 +1,7 @@
-## Chloe Roth
-I am a graduate of Colorado School of Mines with a B.S. in Geological Engineering. Currently I work for NV5 as a GIS Analyst and I am taking the Earth Analytics Professional Certificate through CU Boulder and Earth Lab. 
+## Chloe Roth 
 ### Contact Information
 * [email](chloeroth1@icloud.com)
 * [linkedin](https://www.linkedin.com/in/chloe-roth-534831204/)
+* [github]
+I am a graduate of Colorado School of Mines in May 2021 with a B.S. in Geological Engineering. After graduating, I worked in residential geotechnical engineering for a year and then pivoted into the GIS industry. Currently I work for NV5 as a GIS Analyst. I also am taking the Earth Data Analytics Professional Certificate through CU Boulder and Earth Lab. I was born and raised in Bellingham, WA, until I moved out to Golden, CO for school and then to Boulder, CO after graduating. I love things all outdoors and am an avid hiker, climber, and classic colorado activities.
+I am excited to pursue learning more about Earth Data Science. I love maps and I love data and am looking forward to learning how to process data better using code and be able to transform data into something more accessibly understood. It would be so cool to code with data relevant to my background! I hope to be able to develop my data science skills and be able to answer quesitons that combine data science, geology/soils, and GIS. 
