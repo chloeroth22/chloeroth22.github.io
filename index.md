@@ -14,8 +14,8 @@ I was born and raised in Bellingham, WA, until I moved out to Golden, CO for sch
 ### My Future with Earth Data Science
 I am excited to pursue learning more about Earth Data Science. I love maps and I love data and am looking forward to learning how to process data better using code and be able to transform data into something more accessibly understood. It would be so cool to code with data relevant to my background! I hope to be able to develop my data science skills and be able to answer quesitons that combine data science, geology/soils, and GIS. 
 ## Earth Data Science Portfolio Posts
-[Post 1: Maps-The Geysers Geothermal Field]
+[Post 1: Maps]
 
-[Post 2: Climate Change-Trends in Elko, NV Precipitation Data]
+[Post 2: Climate Change-Trends in Boulder,CO Snowfall Data]
 
-[Post 3: Sand Hill Crane Occurrences 2023: Migration and Anomalies]
+[Post 3: Migration and Anomalies]
