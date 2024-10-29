@@ -16,6 +16,6 @@ I am excited to pursue learning more about Earth Data Science. I love maps and I
 ## Earth Data Science Portfolio Posts
 [Post 1: Maps]
 
-[Post 2: Climate Change-Trends in Boulder,CO Snowfall Data](Climate-Portfolio-Post.html)
+[Post 2: Climate Change-Trends in Boulder,CO Snowfall Data](Portfolio Post, Part 2 -- Write your Post.ipynb)
 
 [Post 3: Migration and Anomalies]
